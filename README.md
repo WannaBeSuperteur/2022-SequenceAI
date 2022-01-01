@@ -1,2 +1,2 @@
 # 2022-SequenceAI
-AI for Sequence Data Prediction
+Practice of AI for Sequence Data Prediction

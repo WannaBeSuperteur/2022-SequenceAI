@@ -1,0 +1,2 @@
+makeDifs.py -> makeInputAndOutput.py -> convertToRNNInputAndOutput.py -> deepLearningRNN.py
+compte test_prediction.csv and test_output_converted.csv
